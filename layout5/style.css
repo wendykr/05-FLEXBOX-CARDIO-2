@@ -1,0 +1,45 @@
+/* nejsme vcerejsi, pouzivame moderni box model */
+*, :after, :before { box-sizing: border-box; }
+
+/* barvicky elementů na stránce */
+header,
+footer {
+	background: yellowgreen;
+}
+
+aside {
+	background: beige;
+}
+
+nav {
+	background: lightsteelblue;
+}
+
+/* -------------------------------------------- */
+/* tady piš svoje CSS */
+/* -------------------------------------------- */
+
+body {
+	margin: 0;
+}
+
+header, footer, article, aside, nav {
+	padding: 20px 0 0 20px;
+}
+
+header, footer {
+	height: 20vh;
+}
+
+.stred {
+	display: flex;
+	height: 60vh;
+}
+
+nav, aside {
+	flex: 1 1 20vw;
+}
+
+article {
+	flex: 1 1 80vw;
+}
