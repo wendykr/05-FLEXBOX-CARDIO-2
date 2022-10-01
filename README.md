@@ -1,29 +1,29 @@
 ## Layout 01
-Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html
+Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html  
 Zdrojové soubory: https://github.com/wendykr/05-FLEXBOX-CARDIO-2/tree/main/layout1
 
 ## Layout 02
-Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html
+Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html  
 Zdrojové soubory: https://github.com/wendykr/05-FLEXBOX-CARDIO-2/tree/main/layout2
 
 ## Layout 03
-Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html
+Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html  
 Zdrojové soubory: https://github.com/wendykr/05-FLEXBOX-CARDIO-2/tree/main/layout3
 
 ## Layout 04
-Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html
+Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html  
 Zdrojové soubory: https://github.com/wendykr/05-FLEXBOX-CARDIO-2/tree/main/layout4
 
 ## Layout 05
-Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html
+Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html  
 Zdrojové soubory: https://github.com/wendykr/05-FLEXBOX-CARDIO-2/tree/main/layout5
 
 ## Layout 06
-Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html
+Náhled: https://wendykr.github.io/05-FLEXBOX-CARDIO-2/layout6/index.html  
 Zdrojové soubory: https://github.com/wendykr/05-FLEXBOX-CARDIO-2/tree/main/layout6
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 # Ahoj Karkulko.
